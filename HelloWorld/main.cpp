@@ -9,7 +9,7 @@
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
-    // I wonder if this is all necessary.
+    // I wonder if this is all necessary.  FFS.
     std::cout << "Hello, World!\n";
     return 0;
 }
